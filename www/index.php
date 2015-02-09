@@ -2,4 +2,4 @@
 
 /* This file does nothing. It just loads the system. */
 
-require('/t/system.php');
+require('t/system.php');
